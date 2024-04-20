@@ -1,7 +1,7 @@
 # Lista-4
 Estudo de lista, pilha e fila
 
-- EXERCÍCIO 1
+# EXERCÍCIO 1
 - Ao participar de um projeto na indústria, você foi alocado para realizar a seguinte implementação de
 estruturas de dados:
 + a. implemente uma lista duplamente ligada que suporte as seguintes operações: inserção, 
