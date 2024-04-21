@@ -12,3 +12,15 @@ eficiente.
 + c. crie uma pilha com uma operação de min() constante, ou seja, a pilha deve permitir as 
 operações padrão de push, pop e top, mas também deve oferecer uma operação min() que 
 retorna o menor elemento na pilha em tempo constante
+
+# EXERCÍCIO 2
+Ao assumir uma vaga em uma startup na área de ensino, você foi alocado para realizar a seguinte 
+implementação:
++ a. validação de expressões com parênteses** usando uma pilha. Escreva um programa que 
+verifica se uma expressão contém parênteses, colchetes e chaves balanceados.
++ b. Notação Polonesa Reversa (NPR): implemente um avaliador de expressões em NPR utilizando
+uma pilha. Assim, o programa deve ser capaz de lidar com operadores como +, -, *, / e suportar 
+números inteiros e de ponto flutuante.
++ c. simulação de fila de impressão, onde os trabalhos podem ser reordenados baseados em 
+prioridades. Utilize uma fila para gerenciar os trabalhos e uma lista ligada para manter os 
+trabalhos concluídos.
