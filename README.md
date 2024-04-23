@@ -25,7 +25,8 @@ números inteiros e de ponto flutuante.
 prioridades. Utilize uma fila para gerenciar os trabalhos e uma lista ligada para manter os 
 trabalhos concluídos.
 
-# Ao assumir uma posição de desenvolvimento na área de computação, você foi designada para 
+# EXERCÍCIO 3
+Ao assumir uma posição de desenvolvimento na área de computação, você foi designada para 
 implementar os seguintes requisitos:
 + a. Algoritmo de Shunting Yard para análise sintática de expressões matemáticas. Assim, converta 
 uma expressão matemática do formato infixo para o formato pós-fixo (NPR) e avalie-a.
